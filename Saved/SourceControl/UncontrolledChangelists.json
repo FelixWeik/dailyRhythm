@@ -4,7 +4,26 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/Outline.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/Toon.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/blush.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/__ExternalActors__/Test/D/LK/H91WS1Z7ZHVB9XHJDW0P99.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/character_laugh_ani.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/__ExternalActors__/Test/A/D1/HXA8SHMYZ0UHMEDFQJD9U4.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/character_laugh_ani_Anim.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/character_laugh_ani_PhysicsAsset.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/__ExternalActors__/Test/9/DI/SZ3RKQY4H3JP190G2HSY1U.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/character_laugh_ani_Skeleton.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/eyelash.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/hair.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/hair_clip.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/shoes.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/skin.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/skirt.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/star.uasset",
+				"C:/Users/HfG-Digital-02/Documents/Unreal Projects/DailyRythm charselec test 5.8 - Copy/Content/char_ani/top.uasset"
+			]
 		}
 	]
 }
